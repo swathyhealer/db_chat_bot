@@ -1,5 +1,7 @@
 # db_chat_bot
 
+## Examples (pardon me for in between print statements)
+![chats](./chats.png)
 ## Installation
 1. Clone the repository:
    ```bash
